@@ -11,3 +11,7 @@ const pi: number = 3.14;
 const r: number = 5;
 const h: number = 10;
 
+let valor: number = pi * r**2 * h
+
+console.log(`Volume do Cilindro: ${valor}`)
+
